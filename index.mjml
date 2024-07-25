@@ -1,0 +1,143 @@
+<mjml>
+<mj-head>
+<mj-title>Transactional Email RentSpreed</mj-title>
+</mj-head>
+
+
+<mj-body width="600px"
+         background-color="#e1f0ff">
+<!--header-->
+<mj-wrapper background-color="#ffffff">
+<mj-section >
+ <mj-column>
+  <mj-image  src="https://i.postimg.cc/KzbJ5XJt/Rent-Spreed-logo.webp" alt="rentspreed logo"/>
+ </mj-column>
+</mj-section>
+<!--main-->
+<mj-section>
+<mj-column>
+<mj-text font-size="30px" 
+         font-weight="bold">
+          Application submitted </mj-text>
+</mj-column>
+</mj-section>
+<mj-section>
+<mj-column>
+ <mj-text font-size="15px"
+          line-height="22px">
+ Hi Rebeca,<br>
+
+Thank you for submitting your rental application to Lupe Lopez.
+
+View my RentSpree dashboard
+ </mj-text>
+ <mj-button background-color="#1f15e1"
+            inner-padding="15px 50px"
+            font-size="18px"
+            border-radius="20px"
+            href="">
+   View my RentSpree Dashboard
+ </mj-button>
+ <mj-text font-size="15px"
+          line-height="22px">
+ For inquiries on your application status, contact Lupe directly. RentSpree does not have access to the application status
+ </mj-text>
+ <mj-text font-size="15px"
+          line-height="22px">
+  If you have not received a report, it will be available after the property representative has viewed it. If you see an error on your screening reports, please contact TU directly at (888) 888-8888
+ </mj-text>
+</mj-column>
+</mj-section>
+<mj-section>
+<mj-column>
+<mj-table padding-bottom="50px">
+<tr style="border-bottom:1px solid #ecedee;text-align:left;padding:15px 0;font-size:20px">
+            <th style="padding: 0 15px 0 0;">Your Receipt</th>
+<tr>
+   <td style="padding: 0 15px 0 0;">Mastercard x--8888</td>
+   <td style="padding: 0 15px;">Screening Reports</td>
+   <td style="padding: 0 0 0 15px;font-weight:bold;font-size:18px">$39.99</td>
+</tr>
+</mj-table>
+
+<mj-table>
+<tr>
+ <td style="font-size:20px; font-weight:bold;">Total </td>
+ 
+ <td style="font-size:20px; font-weight:bold;">$39.99 </td>
+</tr>
+ </mj-table>
+</mj-column>
+</mj-section>
+
+<!--footer-->
+<mj-section background-color="#f3f3f3">
+<mj-column>
+<mj-text align="center" 
+         font-weight="bold"
+         font-size="20px">
+We're here for you!
+</mj-text>
+<mj-text align="center">
+If you have any questions, please visit <a href="https://support.rentspree.com/en?utm_medium=email&utm_content=264241623&utm_source=hs_email">support.rentspree.com</a>
+</mj-text>
+</mj-column>
+</mj-section>
+
+
+<mj-section  background-color="#f3f3f3" >
+<mj-group width="250px">
+<mj-column  >
+<mj-image width="30px" padding="0" src="https://i.postimg.cc/N0mdTG7g/facebook-icon.webp" href="https://www.facebook.com/rentspree?utm_medium=email&utm_content=264241623&utm_source=hs_email" alt="facebook icon" />
+</mj-column>
+<mj-column padding="0">
+<mj-image width="30px" padding="0" src="https://i.postimg.cc/1X5BLGxt/instagram-icon.webp" href="https://www.instagram.com/rentspree/?utm_medium=email&utm_content=264241623&utm_source=hs_email" alt="instagram icon" />
+</mj-column>
+<mj-column>
+<mj-image width="30px" padding="0" src="https://i.postimg.cc/NFJDYKYx/linkedink-icon.webp" href="https://www.linkedin.com/company/rentspree/?utm_medium=email&utm_content=264241623&utm_source=hs_email"  alt="linkedink"/>
+</mj-column>
+<mj-column>
+<mj-image width="30px" padding="0" src="https://i.postimg.cc/1tKMCWj2/twitter-icon.webp" href="https://x.com/Frentspree" alt="twitter"/>
+</mj-column>
+<mj-column>
+<mj-image width="30px" padding="0" src="https://i.postimg.cc/sfww5NSZ/youtube-icon.webp" href="https://www.youtube.com/c/rentspree" alt="youtube"/>
+</mj-column>
+</mj-group>
+</mj-section>
+
+<mj-section>
+<mj-column >
+<mj-text font-size="10px"
+         align="center"
+         line-height="18px"
+         color="darkgray">
+ RentSpree<br>
+ 15303 Ventura Blvd, Ste 1150<br>
+ Sherman Oaks, CA 91403, United States
+</mj-text>
+</mj-column>
+</mj-section>
+</mj-column>
+</mj-section>
+</mj-section>
+</mj-wrapper>
+</mjml>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</mj-body>
